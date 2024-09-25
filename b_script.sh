@@ -1,6 +1,6 @@
 python3 ./mace/scripts/run_train.py \
   --name="water_1k_small" \
-    --train_file="dataset_1593.xyz" \
+    --train_file="ab-initio-thermodynamics-of-water/training-set/dataset_1593.xyz" \
     --valid_fraction=0.05 \
     --E0s="average" \
     --model="MACE" \
