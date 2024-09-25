@@ -24,7 +24,7 @@ python3 ./mace/scripts/run_train.py \
     --swa \
     --error_table='PerAtomMAE' \
     --default_dtype="float64"\
-    --device=cpu \
+    --device=cuda \
     --seed=123 \
     --restart_latest \
     --save_cpu \
