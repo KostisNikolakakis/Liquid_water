@@ -1,0 +1,6 @@
+e3nn==0.4.4 
+opt_einsum 
+ase 
+torch_ema 
+prettytable
+
